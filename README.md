@@ -24,7 +24,7 @@ PROBLEMA 1
     1.5 - ritornare risultato con la nuova parola
 2 - permettere all'utente di inserire una parola tramite prompt
 3 - definire variabile nella quale chiamare funzione definita nel punto 1 e impostare parametro con parola inserita dall'utente
-4 - mettere a confronto la parola inserita dall'utente con quella crerata tramite la funzione
+4 - mettere a confronto la parola inserita dall'utente con quella creata tramite la funzione
     4.1 - SE sono uguali allora stampare 'la parola è palindroma'
     4.2 - ALTRIMENTI stampare 'la perola non è palindroma'
 
